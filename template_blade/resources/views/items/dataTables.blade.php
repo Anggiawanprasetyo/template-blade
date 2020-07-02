@@ -439,7 +439,6 @@
       </div>
       <!-- /.card-body -->
     </div>
-
 @endsection
 
 @push('scripts')
